@@ -17,7 +17,7 @@ Marketing Team is working on marketing strategies aimed at converting casual rid
 Based on the most current data (2021, February - 2022, January):
 * Assess if members and casual riders use Cyclistic bikes differently.
 * If the differences exist:
-    * determine how annual members and casual riders differ, 
+    * determine how members and casual riders differ, 
     * and generate recommendations based on this analysis for the Cyclistic's marketing team to design marketing strategies for converting casual riders into members.
 ## 1.2 Stakeholders
 * Lily Moreno: The director of marketing;
@@ -38,7 +38,6 @@ We will use *Cyclistic trip data* to analyze and identify patterns (if any) - [l
     - *C*ited.
 
 ### 2.2 Details on the data
-**Note_2:** We assume that this data is internal.
 - Data is first-party data, generated internally on monthly basis by Cyclistic marketing analytics team.
 - Data is 12 separate csv files, with 13 columns in each file, in a wide format. 
 - Data range covered: 2021, February - 2022, January.
@@ -67,6 +66,7 @@ We will use *Cyclistic trip data* to analyze and identify patterns (if any) - [l
 
 ## Step 5 Share
 **Insights generated from the analysis**
+- Members and casual riders differ;
 - 45% Cyclistic trips are made by casual riders. This is quite impressive number;
 - Casual riders prefer warm and dry months;
 - Most of casual rides are made on weekends;
